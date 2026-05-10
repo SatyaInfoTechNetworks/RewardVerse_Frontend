@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/_next/'],
     },
-    sitemap: 'https://rewardverse.in/sitemap.xml',
+    sitemap: 'https://rewardverse.satyainfotechnetworks.com/sitemap.xml',
   }
 }
